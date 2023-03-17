@@ -1,0 +1,22 @@
+/*common code*/
+body{
+   background-color: darkturquoise;
+}
+.fsdad{
+     margin-top: 65px;
+     margin-bottom: 70px;
+}
+.box{
+   height: 250px;
+   width: 250px;
+   background-color: white;
+   margin: 0 10px;
+   text-align: center;
+}
+.juin{
+    text-align: center;
+    background-color: springgreen;
+    height: 61px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
